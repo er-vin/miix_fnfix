@@ -1,1 +1,1 @@
-ATTR{idVendor}=="17ef", ATTR{idProduct}=="60bb", RUN+="/root/miix_fnfix.py"
+ATTR{idVendor}=="17ef", ATTR{idProduct}=="60bb", RUN+="/usr/local/sbin/miix_fnfix.py"
